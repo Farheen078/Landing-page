@@ -16,8 +16,8 @@
 # next.js
 /.next/
 /out/
-./CLAUDE.md
-./AGENTS.md
+/.CLAUDE.md/
+/.AGENTS.md/
 
 
 # production
